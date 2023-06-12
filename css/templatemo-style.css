@@ -10,6 +10,9 @@ https://templatemo.com/tm-518-sentra
   width: 50px;
   height: 50px;
 }
+#imagemoi{
+	width : 100%;
+}
 #button {
   display: inline-block;
   background-color: #45489a;
